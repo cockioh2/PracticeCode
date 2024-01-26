@@ -1,0 +1,2 @@
+# PracticeCode
+Practice some codes
